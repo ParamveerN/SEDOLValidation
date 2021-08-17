@@ -1,0 +1,13 @@
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.exe
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.deps.json
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.runtimeconfig.json
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.runtimeconfig.dev.json
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.dll
+D:\Work\Project\SEDOLValidator\SEDOLValidator\bin\Debug\netcoreapp3.1\SEDOLValidator.pdb
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.csproj.AssemblyReference.cache
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.AssemblyInfoInputs.cache
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.AssemblyInfo.cs
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.csproj.CoreCompileInputs.cache
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.dll
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.pdb
+D:\Work\Project\SEDOLValidator\SEDOLValidator\obj\Debug\netcoreapp3.1\SEDOLValidator.genruntimeconfig.cache

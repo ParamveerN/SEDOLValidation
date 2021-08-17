@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Paramveer.Netkar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Paramveer.Netkar\\.nuget\\packages"
+    ]
+  }
+}
